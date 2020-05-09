@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Sample Map Website
-description: This website demonstrates how to easily publish and display an interactive map made with Folium.
+description: This website demonstrates how to easily publish and display an interactive map made with Folium. It features some hot spots around Ithaca, NY. Logo credit: [Cornell Law School](https://www.lawschool.cornell.edu/admissions/ithaca/index.cfm) 
 logo: https://www.lawschool.cornell.edu/_cs_apps/pt_photo_gallery/uploads/mainphotogallery/fullsizeimage/Photogallery_Ithacapage_8.png
+#logo: 
