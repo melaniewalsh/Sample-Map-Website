@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Sample Map Website
 description: This website demonstrates how to easily publish and display an interactive map made with Folium.
-logo: [https://www.lawschool.cornell.edu/_cs_apps/pt_photo_gallery/uploads/mainphotogallery/fullsizeimage/Photogallery_Ithacapage_8.png]
+logo: https://www.lawschool.cornell.edu/_cs_apps/pt_photo_gallery/uploads/mainphotogallery/fullsizeimage/Photogallery_Ithacapage_8.png
